@@ -1,0 +1,32 @@
+general:
+    season: 5
+    episode: 1
+    date: 2017-01-26
+    title: Two plus two equals five
+    overview: Sayonara cyanogenmod, hello Dell, open source Pi and KillDisk. Plus some awesome finds and a fresh new VotM
+    presenters: Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders
+    tags: Cyanogenmod, Dell, KillDisk, Linux, Linux Voice
+news:
+    Say sayonara to Cyanogenmod: http://www.gsmarena.com/lineage_os_is_now_officially_picking_up_where_cyanogenmod_left_off-blog-22903.php
+    Dell has tens of millions of reasons to love Linux: http://www.omgubuntu.co.uk/2017/01/dell-talk-linux-laptops-distros-sales
+    The Raspberry Pi can now be booted blobless: http://crna.cc/
+    Shipping starts on the first open source hardware micro-controllers: https://www.crowdsupply.com/sifive/hifive1
+    KillDisk malware comes to Linux: https://www.scmagazine.com/deadly-killdisk-malware-now-in-linux/article/629896/
+finds:
+    graham: 
+        Jerobeam Fenderson's amazing oscilloscope music: https://www.youtube.com/watch?v=XziuEdpVUe0&index=6&list=PLFgoUhNvMLrr8izq38HX6rjFR-nkfklxw
+        Drag and drop your own bash PS1 prompt: http://bashrcgenerator.com/
+    ben: 
+        I've been cloning mushrooms (ate the first ones last night): http://www.sporetradingpost.com/clone_a_mushroom.htm
+        tinc mesh vpn for securing distributed networks: https://www.tinc-vpn.org/
+    mike:
+        Weird character at start of document? Maybe it's a BOM: https://en.wikipedia.org/wiki/Byte_order_mark
+        Play Flappy Bird in Sed with sfb: https://github.com/ValeriyKr/sfb/
+        Fix public wifi connection issues with NeverSSL: http://neverssl.com
+    andrew:
+        The Linux Luddites podcast is no more: https://linuxluddites.com/
+        There's a new Linux podcast, called Late Night Linux, from the creators of Linux Luddites: http://latenightlinux.com/
+neurons:
+votm:
+    Do you agree with the FSF's high priority projects? : https://www.linuxvoice.com/voice-of-the-masses-do-you-agree-with-the-fsfs-high-priority-projects/#comments
+    
