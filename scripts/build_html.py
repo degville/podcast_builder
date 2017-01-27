@@ -161,9 +161,9 @@ def format_footer(data):
 	html_footer += html.unescape('  <source src="/episodes/' + podcast_filename + '.mp3" type="audio/mpeg">\n')
 	html_footer += html.unescape('</audio>\n\n')
 
-	html_footer += html.unescape('<p><strong> <a href=/episodes/'+ podcast_filename + '.ogg">Download as high-quality Ogg Vorbis (' + str(size_ogg) + 'MB)</a></strong></p>\n')
-	html_footer += html.unescape('<p><strong> <a href=/episodes/'+ podcast_filename + '.mp3">Download as low-quality MP3 (' + str(size_mp3) + 'MB)</a></strong></p>\n')
-	html_footer += html.unescape('<p><strong> <a href=/episodes/'+ podcast_filename + '.opus">Download the smaller yet even more awesome Opus file (' + str(size_opus) + 'MB)</a></strong></p>\n')
+	html_footer += html.unescape('<p><strong> <a href="/episodes/'+ podcast_filename + '.ogg">Download as high-quality Ogg Vorbis (' + str(size_ogg) + 'MB)</a></strong></p>\n')
+	html_footer += html.unescape('<p><strong> <a href="/episodes/'+ podcast_filename + '.mp3">Download as low-quality MP3 (' + str(size_mp3) + 'MB)</a></strong></p>\n')
+	html_footer += html.unescape('<p><strong> <a href="/episodes/'+ podcast_filename + '.opus">Download the smaller yet even more awesome Opus file (' + str(size_opus) + 'MB)</a></strong></p>\n')
 
 	html_footer += html.unescape('Duration: ' + podcast_duration + '\n')
 	html_footer += html.unescape('\
