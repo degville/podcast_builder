@@ -13,10 +13,10 @@ In the 'scripts' directory are:
 
 If you want to run these scripts:
 
-1. You'll also need an `audio` folder containing an `lv_s01e01*.wav` audio file
-with a filename that matches the episode and series in the podcast.yaml file
+1. You'll also need an `audio` folder containing an `lv_s01e01.wav` audio file
+with a filename that matches the episode and series in `podcast.yaml`.
 
 1. An images folder containing `podcast_image.png` to use as an embedded
 thumbnail in the transcoded audio files.
 
-Then run the scripts in the above order.
+The scripts should be run in the above order.
