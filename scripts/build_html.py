@@ -74,7 +74,7 @@ def format_finds(data):
 	if (irc_finds):
 		html_finds += html.unescape('<li>A selection of finds from from our <a \
 href="http://webchat.freenode.net/?channels=linuxvoice">#linuxvoice</a> IRC \
-channel on Freenode.</li>\n<li> <ul> \n')
+channel on Freenode:<ul> \n')
 		
 		for item_name, item_value in irc_finds.items():
 			html_finds += format_find(item_name, item_value)
