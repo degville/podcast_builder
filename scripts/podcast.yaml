@@ -1,32 +1,38 @@
 general:
     season: 5
-    episode: 1
-    date: 2017-01-26
-    title: Two plus two equals five
-    overview: Sayonara cyanogenmod, hello Dell, open source Pi and KillDisk. Plus some awesome finds and a fresh new VotM
+    episode: 2
+    date: 2017-02-09
+    title: Hey Greg
+    overview: We've got a live recording from FOSDEM (thanks Mike!), lots of news, lots of Finds and an awesome Voice of the Masses
     presenters: Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders
-    tags: Cyanogenmod, Dell, KillDisk, Linux, Linux Voice
+    tags: FOSDEM, Kodi, FTP, Amiga, KDE, slimbook, Cryptkeeper
 news:
-    Say sayonara to Cyanogenmod: http://www.gsmarena.com/lineage_os_is_now_officially_picking_up_where_cyanogenmod_left_off-blog-22903.php
-    Dell has tens of millions of reasons to love Linux: http://www.omgubuntu.co.uk/2017/01/dell-talk-linux-laptops-distros-sales
-    The Raspberry Pi can now be booted blobless: http://crna.cc/
-    Shipping starts on the first open source hardware micro-controllers: https://www.crowdsupply.com/sifive/hifive1
-    KillDisk malware comes to Linux: https://www.scmagazine.com/deadly-killdisk-malware-now-in-linux/article/629896/
+    KDE and slimbook release a laptop:  http://kde.slimbook.es/
+    Gitlab goes down hard: https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/
+    Kodi in court: http://www.bbc.co.uk/news/technology-38769045
+    Cryptkeeper password faux pas: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=852751
+    Kernel.org shuts down FTP: https://kernel.org/shutting-down-ftp-services.html
 finds:
-    graham: 
-        Jerobeam Fenderson's amazing oscilloscope music: https://www.youtube.com/watch?v=XziuEdpVUe0&index=6&list=PLFgoUhNvMLrr8izq38HX6rjFR-nkfklxw
-        Drag and drop your own bash PS1 prompt: http://bashrcgenerator.com/
-    ben: 
-        I've been cloning mushrooms (ate the first ones last night): http://www.sporetradingpost.com/clone_a_mushroom.htm
-        tinc mesh vpn for securing distributed networks: https://www.tinc-vpn.org/
+    irc:
+        ioangogo; Store documents with OCR: https://openpaper.work/en-us/#/slide_intro
+        mcphail; Google inserts an invisible spinning box on its homepage that kills the CPU in Firefox: https://bugzilla.mozilla.org/show_bug.cgi?id=1218169 
+        huw; Play Pokemon in Minecraft, or the other way around maybe: http://phoenixsc.me/pokemon-cobalt-and-amethyst-official-walkthrough/
+        drgnu; Professional level RAW photo editing with Darktable: http://www.darktable.org/
+        james_olympus; There was a rumoured exploit in Steam: https://www.reddit.com/r/Steam/comments/5smjle/an_xss_exploit_on_steam_profiles_has_been_fixed/
+    graham:
+        Go to Libre Planet 2017: https://libreplanet.org/2017/
+        Checkout the scripts we use to build the podcast: https://github.com/degville/podcast_builder
+        There's a new graphics card for Zorro equiped Commodore Amigas: https://github.com/mntmn/amiga2000-gfxcard
+        Understand Bitcoin by watching this video: https://anders.com/blockchain
+        Get a perfect trackpad configuration with with mtrack Xorg module: https://howchoo.com/g/mdy0ngziogm/the-perfect-almost-touchpad-settings-on-linux-2
+    ben:
+        Reddit list of FOSS donations: https://www.reddit.com/r/linux/duplicates/5omtvg/patreons_to_support_open_source_projects_please/
     mike:
-        Weird character at start of document? Maybe it's a BOM: https://en.wikipedia.org/wiki/Byte_order_mark
-        Play Flappy Bird in Sed with sfb: https://github.com/ValeriyKr/sfb/
-        Fix public wifi connection issues with NeverSSL: http://neverssl.com
+        Get offline OSM maps on Android with maps.me: https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro&hl=en
     andrew:
-        The Linux Luddites podcast is no more: https://linuxluddites.com/
-        There's a new Linux podcast, called Late Night Linux, from the creators of Linux Luddites: http://latenightlinux.com/
+        Kodi is awesome: https://kodi.tv
+        Today is International Clash Day: http://wamu.org/story/17/02/07/d-c-recognizing-international-clash-day-celebration-english-punk-band
 neurons:
 votm:
-    Do you agree with the FSF's high priority projects? : https://www.linuxvoice.com/voice-of-the-masses-do-you-agree-with-the-fsfs-high-priority-projects/#comments
+    What would be in your ideal distro? : https://www.linuxvoice.com/voice-of-the-masses-what-would-be-in-your-ideal-distro/#comments
     

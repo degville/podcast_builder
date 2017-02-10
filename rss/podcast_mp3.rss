@@ -31,6 +31,20 @@ xml:lang='en-GB'>
 <!-- Paste latest Linux Voice podcast here -->
 
 <item>
+<title>Season 5 Episode 2</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Hey Greg</itunes:subtitle>
+<description>
+In this episode: We've got a live recording from FOSDEM (thanks Mike!), lots of news, lots of Finds and an awesome Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s05e02.mp3" length="84724578" type="audio/mp3"/>
+<pubDate>Thu, 09 Feb 2017 00:00:00 -0000</pubDate>
+<itunes:duration>1:11:00</itunes:duration>
+<itunes:keywords>FOSDEM, Kodi, FTP, Amiga, KDE, slimbook, Cryptkeeper</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-5-episode-2</guid>
+</item>
+
+<item>
 <title>Season 5 Episode 1</title>
 <itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
 <itunes:subtitle>Title: Two plus two equals five</itunes:subtitle>
