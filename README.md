@@ -19,4 +19,4 @@ with a filename that matches the episode and series in `podcast.yaml`.
 1. An images folder containing `podcast_image.png` to use as an embedded
 thumbnail in the transcoded audio files.
 
-The scripts should be run in the above order.
+The scripts should be run in the above order from the `scripts` folder.
