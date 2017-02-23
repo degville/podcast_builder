@@ -31,6 +31,20 @@ xml:lang='en-GB'>
 <!-- Paste latest Linux Voice podcast here -->
 
 <item>
+<title>Season 5 Episode 3</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Feels over reals</itunes:subtitle>
+<description>
+In this episode: 32 bits are no longer enough, there's crowdfunding for Elementary and small PCs, and Munich fakes the news. Plus lots of discoveries.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s05e03.opus" length="21574197" type="audio/ogg; codecs=opus"/>
+<pubDate>Thu, 23 Feb 2017 00:00:00 -0000</pubDate>
+<itunes:duration>1:02:28</itunes:duration>
+<itunes:keywords>Munich, Limux, Microsoft, Elementary, Linux, Linux Voice, open source</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-5-episode-3</guid>
+</item>
+
+<item>
 <title>Season 5 Episode 2</title>
 <itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
 <itunes:subtitle>Title: Hey Greg</itunes:subtitle>

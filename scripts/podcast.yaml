@@ -1,38 +1,32 @@
 general:
     season: 5
-    episode: 2
-    date: 2017-02-09
-    title: Hey Greg
-    overview: We've got a live recording from FOSDEM (thanks Mike!), lots of news, lots of Finds and an awesome Voice of the Masses
+    episode: 3
+    date: 2017-02-23
+    title: Feels over reals
+    overview: 32 bits are no longer enough, there's crowdfunding for Elementary and small PCs, and Munich fakes the news. Plus lots of discoveries
     presenters: Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders
-    tags: FOSDEM, Kodi, FTP, Amiga, KDE, slimbook, Cryptkeeper
+    tags: Munich, Limux, Microsoft, Elementary, Linux, Linux Voice, open source
 news:
-    KDE and slimbook release a laptop:  http://kde.slimbook.es/
-    Gitlab goes down hard: https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/
-    Kodi in court: http://www.bbc.co.uk/news/technology-38769045
-    Cryptkeeper password faux pas: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=852751
-    Kernel.org shuts down FTP: https://kernel.org/shutting-down-ftp-services.html
+    Appcenter, a pay-what-you-want appstore for Elementary kickstarted: https://www.indiegogo.com/projects/appcenter-the-pay-what-you-want-app-store#/
+    Arch drop 32-bit support, as does Tails: https://lists.archlinux.org/pipermail/arch-dev-public/2017-January/028660.html
+    A study by Firefox, Cloudflare and others has shown that between 5 and 10 percent of HTTP traffic is intercepted: https://www.thesslstore.com/blog/https-interception-harming-security/
+    Munich considers dropping Linux, or not: https://www.theregister.co.uk/2017/02/13/munich_may_dump_linux_for_windows/
 finds:
     irc:
-        ioangogo; Store documents with OCR: https://openpaper.work/en-us/#/slide_intro
-        mcphail; Google inserts an invisible spinning box on its homepage that kills the CPU in Firefox: https://bugzilla.mozilla.org/show_bug.cgi?id=1218169 
-        huw; Play Pokemon in Minecraft, or the other way around maybe: http://phoenixsc.me/pokemon-cobalt-and-amethyst-official-walkthrough/
-        drgnu; Professional level RAW photo editing with Darktable: http://www.darktable.org/
-        james_olympus; There was a rumoured exploit in Steam: https://www.reddit.com/r/Steam/comments/5smjle/an_xss_exploit_on_steam_profiles_has_been_fixed/
+        aShepie; Linkedin articles are an excersice in narcism: https://blog.linkedin.com/topic/careers
+        zmoylan-pi; The Nokia 3310 returns: http://www.theverge.com/circuitbreaker/2017/2/14/14609438/nokia-3310-rumored-mwc-3-5-6-hmd-global
+        zmoylan-pi; You can't turn off the DRM in the new version of Chrome: http://www.tomshardware.com/news/chrome-57-permanently-enabled-drm,33527.html
     graham:
-        Go to Libre Planet 2017: https://libreplanet.org/2017/
-        Checkout the scripts we use to build the podcast: https://github.com/degville/podcast_builder
-        There's a new graphics card for Zorro equiped Commodore Amigas: https://github.com/mntmn/amiga2000-gfxcard
-        Understand Bitcoin by watching this video: https://anders.com/blockchain
-        Get a perfect trackpad configuration with with mtrack Xorg module: https://howchoo.com/g/mdy0ngziogm/the-perfect-almost-touchpad-settings-on-linux-2
+        If you've got an Amiga, check out Aural Synthetica: http://www.blachford.info/blachtech/as11.html
     ben:
-        Reddit list of FOSS donations: https://www.reddit.com/r/linux/duplicates/5omtvg/patreons_to_support_open_source_projects_please/
+        set synchronize on tmux has been a boon for me recently: https://sanctum.geek.nz/arabesque/sync-tmux-panes/
+        A pocket PC running Ubuntu is being crowdfunded: https://www.indiegogo.com/projects/gpd-pocket-7-0-umpc-laptop-ubuntu-or-win-10-os-laptop--2#/
     mike:
-        Get offline OSM maps on Android with maps.me: https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro&hl=en
+        There are an infinite number of contributors working on the Linux kernel: https://github.com/torvalds/linux
     andrew:
-        Kodi is awesome: https://kodi.tv
-        Today is International Clash Day: http://wamu.org/story/17/02/07/d-c-recognizing-international-clash-day-celebration-english-punk-band
-neurons:
+        The Craft of Text Editing is a free download: https://www.finseth.com/craft/
+neurons: 
+    Phil the Sheep: telling everyone how awesome Linux is
+    Bob Anderson: asking for Perl tutorials
 votm:
-    What would be in your ideal distro? : https://www.linuxvoice.com/voice-of-the-masses-what-would-be-in-your-ideal-distro/#comments
-    
+    Has Linux won the UNIX wars?: https://www.linuxvoice.com/voice-of-the-masses-has-linux-won-the-unix-wars/#comments
