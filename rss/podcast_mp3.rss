@@ -31,6 +31,20 @@ xml:lang='en-GB'>
 <!-- Paste latest Linux Voice podcast here -->
 
 <item>
+<title>Season 5 Episode 4</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Always make a backup</itunes:subtitle>
+<description>
+In this episode: More free devices, SHA1 is broken, new Pis and lots of finds. Plus Voice of the Masses,.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s05e04.mp3" length="56119936" type="audio/mp3"/>
+<pubDate>Thu, 16 Mar 2017 00:00:00 -0000</pubDate>
+<itunes:duration>0:48:34</itunes:duration>
+<itunes:keywords>fsf, ubuntu, Qt, Nvidia, sha1, Linux, Linux Voice</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-5-episode-4</guid>
+</item>
+
+<item>
 <title>Season 5 Episode 3</title>
 <itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
 <itunes:subtitle>Title: Feels over reals</itunes:subtitle>

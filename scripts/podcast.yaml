@@ -1,32 +1,33 @@
 general:
     season: 5
-    episode: 3
-    date: 2017-02-23
-    title: Feels over reals
-    overview: 32 bits are no longer enough, there's crowdfunding for Elementary and small PCs, and Munich fakes the news. Plus lots of discoveries
+    episode: 4
+    date: 2017-03-16
+    title: Always make a backup 
+    overview: More free devices, SHA1 is broken, new Pis and lots of finds. Plus Voice of the Masses,
     presenters: Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders
-    tags: Munich, Limux, Microsoft, Elementary, Linux, Linux Voice, open source
+    tags: fsf, ubuntu, Qt, Nvidia, sha1, Linux, Linux Voice
 news:
-    Appcenter, a pay-what-you-want appstore for Elementary kickstarted: https://www.indiegogo.com/projects/appcenter-the-pay-what-you-want-app-store#/
-    Arch drop 32-bit support, as does Tails: https://lists.archlinux.org/pipermail/arch-dev-public/2017-January/028660.html
-    A study by Firefox, Cloudflare and others has shown that between 5 and 10 percent of HTTP traffic is intercepted: https://www.thesslstore.com/blog/https-interception-harming-security/
-    Munich considers dropping Linux, or not: https://www.theregister.co.uk/2017/02/13/munich_may_dump_linux_for_windows/
+    Three new pieces of hardware certified as Respecting your Freedom by FSF (made by Viking GMBH): https://www.fsf.org/news/three-devices-from-vikings-gmbh-now-fsf-certified-to-respect-your-freedom
+    Oh SHA-1 T! : https://arstechnica.co.uk/security/2017/02/at-deaths-door-for-years-widely-used-sha1-function-is-now-dead/
+    Nvidia opens Qt 3D Studio source code: http://blog.qt.io/blog/2017/02/20/introducing-qt-3d-studio/
+    There's a new Raspberry Pi, the Zero W, now with a bluetooth and wifi option for $10: https://www.raspberrypi.org/products/pi-zero-w/
+    Happy days! OggCamp 2017 will take place Saturday 19th August in Canterbury, UK: http://oggcamp.org/
 finds:
     irc:
-        aShepie; Linkedin articles are an excersice in narcism: https://blog.linkedin.com/topic/careers
-        zmoylan-pi; The Nokia 3310 returns: http://www.theverge.com/circuitbreaker/2017/2/14/14609438/nokia-3310-rumored-mwc-3-5-6-hmd-global
-        zmoylan-pi; You can't turn off the DRM in the new version of Chrome: http://www.tomshardware.com/news/chrome-57-permanently-enabled-drm,33527.html
+        TwistedLucidity; QMapShack, a great tool for creating GPX tracks: https://bitbucket.org/maproom/qmapshack/wiki/Home
+        TwistedLucidity; OsmAnd, orders of magnitude better than Google Maps: http://osmand.net/
+        JonTheNiceGuy; matrix.org and riot.im are awesome: http://matrix.org/
+        JonTheNiceGuy; check out the admin admin podcast: http://www.adminadminpodcast.co.uk/
+        arubislander; Instead of Google, use howdoi on the command line: https://github.com/gleitz/howdoi
     graham:
-        If you've got an Amiga, check out Aural Synthetica: http://www.blachford.info/blachtech/as11.html
+        SteamVR has finally been released for Linux: https://github.com/ValveSoftware/SteamVR-for-Linux 
     ben:
-        set synchronize on tmux has been a boon for me recently: https://sanctum.geek.nz/arabesque/sync-tmux-panes/
-        A pocket PC running Ubuntu is being crowdfunded: https://www.indiegogo.com/projects/gpd-pocket-7-0-umpc-laptop-ubuntu-or-win-10-os-laptop--2#/
+        Fix a corrupt sudoers file using pkexec: https://www.freedesktop.org/software/polkit/docs/0.105/pkexec.1.html
     mike:
-        There are an infinite number of contributors working on the Linux kernel: https://github.com/torvalds/linux
+        Firefox is getting a feature called containers: https://wiki.mozilla.org/Security/Contextual_Identity_Project/Containers
     andrew:
-        The Craft of Text Editing is a free download: https://www.finseth.com/craft/
+        Planet Terror: https://en.wikipedia.org/wiki/Planet_Terror
 neurons: 
-    Phil the Sheep: telling everyone how awesome Linux is
-    Bob Anderson: asking for Perl tutorials
+    Hans: reminding us that Fairphone is onto something
 votm:
-    Has Linux won the UNIX wars?: https://www.linuxvoice.com/voice-of-the-masses-has-linux-won-the-unix-wars/#comments
+    How many Raspberry Pis do you have?: https://www.linuxvoice.com/voice-of-the-masses-how-many-raspberry-pis-do-you-have/#comments 
