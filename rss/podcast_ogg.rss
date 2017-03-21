@@ -7,7 +7,7 @@ xml:lang='en-GB'>
 <channel>
 <title>Linux Voice Podcast</title>
 <link>http://www.linuxvoice.com/podcast_ogg.rss</link>
-<atom:link href="http://www.linuxvoice.com/podcast_ogg.rss" rel="self" type="application/rss+xml"/>
+<atom:link href="https://www.linuxvoice.com/podcast_ogg.rss" rel="self" type="application/rss+xml"/>
 <language>en</language>
 <copyright>Released under the Creative Commons Attribution-Share Alike 3.0 Unported Licence</copyright>
 <description>Linux chat and banter</description>
@@ -38,7 +38,7 @@ xml:lang='en-GB'>
 In this episode: More free devices, SHA1 is broken, new Pis and lots of finds. Plus Voice of the Masses,.
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s05e04.ogg" length="41001849" type="audio/ogg"/>
-<pubDate>Thu, 16 Mar 2017 00:00:00 -0000</pubDate>
+<pubDate>Thu, 16 Mar 2017 00:00:00 GMT</pubDate>
 <itunes:duration>0:48:34</itunes:duration>
 <itunes:keywords>fsf, ubuntu, Qt, Nvidia, sha1, Linux, Linux Voice</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-5-episode-4</guid>
@@ -52,7 +52,7 @@ In this episode: More free devices, SHA1 is broken, new Pis and lots of finds. P
 In this episode: 32 bits are no longer enough, there's crowdfunding for Elementary and small PCs, and Munich fakes the news. Plus lots of discoveries.
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s05e03.ogg" length="55484902" type="audio/ogg"/>
-<pubDate>Thu, 23 Feb 2017 00:00:00 -0000</pubDate>
+<pubDate>Thu, 23 Feb 2017 00:00:00 GMT</pubDate>
 <itunes:duration>1:02:28</itunes:duration>
 <itunes:keywords>Munich, Limux, Microsoft, Elementary, Linux, Linux Voice, open source</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-5-episode-3</guid>
@@ -66,7 +66,7 @@ In this episode: 32 bits are no longer enough, there's crowdfunding for Elementa
 In this episode: We've got a live recording from FOSDEM (thanks Mike!), lots of news, lots of Finds and an awesome Voice of the Masses.
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s05e02.ogg" length="58269013" type="audio/ogg"/>
-<pubDate>Thu, 09 Feb 2017 00:00:00 -0000</pubDate>
+<pubDate>Thu, 09 Feb 2017 00:00:00 GMT</pubDate>
 <itunes:duration>1:11:00</itunes:duration>
 <itunes:keywords>FOSDEM, Kodi, FTP, Amiga, KDE, slimbook, Cryptkeeper</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-5-episode-2</guid>
@@ -80,7 +80,7 @@ In this episode: We've got a live recording from FOSDEM (thanks Mike!), lots of 
 In this episode: Sayonara cyanogenmod, hello Dell, open source Pi and KillDisk. Plus some awesome finds and a fresh new VotM.
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s05e01.ogg" length="46530801" type="audio/ogg"/>
-<pubDate>Thu, 26 Jan 2017 00:00:00 -0000</pubDate>
+<pubDate>Thu, 26 Jan 2017 00:00:00 GMT</pubDate>
 <itunes:duration>0:55:59</itunes:duration>
 <itunes:keywords>Cyanogenmod, Dell, KillDisk, Linux, Linux Voice</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-5-episode-1</guid>
@@ -131,7 +131,7 @@ In this episode: Nintendo loves Linux. KDE Neon needs updating. OpenStreetMap ne
 
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s04e17.ogg" length="55643697" 
-type="audio/ogg; codecs=ogg" />
+type="audio/ogg" />
 <pubDate>Thu, 17 Nov 2016 12:00:00 GMT</pubDate>
 <itunes:duration>1:02:09</itunes:duration>
 <itunes:keywords>Linux Voice, Ubuntu, Nintendo, KDE Neom, OpenStreetMap, Linux</itunes:keywords>
@@ -251,7 +251,7 @@ In this episode: Flatpak vs. Snaps. OwnCloud vs. Nextcloud. Oculus vs. Valve. UK
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s04e10.ogg" length="138363285" 
 type="audio/ogg" />
-<pubDate>Thu, 22 Jun 2016 11:00:00 GMT</pubDate>
+<pubDate>Wed, 22 Jun 2016 11:00:00 GMT</pubDate>
 <itunes:duration>56:40</itunes:duration>
 <itunes:keywords>Snap, Flatpak, Red Hat, Canonical, OwnCloud, Brexit, GNU, Linux Voice, Linux</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-4-episode-10/</guid>
@@ -352,7 +352,7 @@ In this episode: Apple vs FBI - Fight! Linux Mint's ISOs and forums have been ha
 
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s04e04.ogg" length="57400353" 
-type="audio/ogg;" />
+type="audio/ogg" />
 <pubDate>Thu, 25 Feb 2016 18:00:00 GMT</pubDate>
 <itunes:duration>1:08:13</itunes:duration>
 <itunes:keywords>Apple, FBI, Linux Mint, Glibc, GNU, Linux Voice, Linux</itunes:keywords>
@@ -388,7 +388,7 @@ In this episode: Good news from Qt and bad news for 32 bit Google Chrome users. 
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s04e02.ogg" length="57003124" 
 type="audio/ogg" />
-<pubDate>Thu, 27 Jan 2016 11:00:00 GMT</pubDate>
+<pubDate>Wed, 27 Jan 2016 11:00:00 GMT</pubDate>
 <itunes:duration>1:04:03</itunes:duration>
 <itunes:keywords>Digia, Qt, Google Chrome, Linux Foundation, Microsoft, AMD, PS4,  government, GNU, Linux Voice, Linux</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-4-episode-02/</guid>
@@ -404,7 +404,7 @@ In this episode: Ian Murdoch, creator of Debian, has died. AMD is overhauling it
  
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s04e01.ogg" length="54969023" 
-type="audio/ogg;" />
+type="audio/ogg" />
 <pubDate>Thu, 7 Jan 2016 11:00:00 GMT</pubDate>
 <itunes:duration>1:01:07</itunes:duration>
 <itunes:keywords>Ian Murdoch, Debian, AMD, PS4, IPv6, SSL, government, GNU, Linux Voice, Linux</itunes:keywords>
@@ -459,7 +459,7 @@ In this episode: More epic discussions about privacy, encryption and the Investi
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s03e20.ogg" length="68616573" 
 type="audio/ogg" />
-<pubDate>Thu, 18 Nov 2015 10:00:00 GMT</pubDate>
+<pubDate>Wed, 18 Nov 2015 10:00:00 GMT</pubDate>
 <itunes:duration>1:18:25</itunes:duration>
 <itunes:keywords>Privacy, Encryption, Politics, Steam, Security, GNU, Linux Voice, Linux</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-3-episode-20/</guid>
@@ -1081,7 +1081,7 @@ Voice of the Masses: Have Heartbleed and Shellshock changed your attitude to ope
 ]]></description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s02e18.ogg" length="26921822" 
 type="audio/ogg" />
-<pubDate>Thu, 8 Oct 2014 09:00:00 GMT</pubDate>
+<pubDate>Wed, 8 Oct 2014 09:00:00 GMT</pubDate>
 <itunes:duration>32:52</itunes:duration>
 <itunes:keywords>Linux Voice, OggCamp, Minecraft, Shellshock, Raspberry Pi</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-2-episode-18/</guid>
@@ -1220,7 +1220,7 @@ type="audio/ogg" />
 In this episode: There are now 500 Linux games on Steam. Kim Dotcom is looking for a whistleblower. The Turing Test has been conquered, maybe, and the Krita project is looking for funds. We've got some finds, no neurones, and an excellent Voice of the Masses.
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s02e11.ogg" length="39002331" 
-type="audio/ogg;" />
+type="audio/ogg" />
 <pubDate>Thu, 12 Jun 2014 11:00:00 GMT</pubDate>
 <itunes:duration>0:52:19</itunes:duration>
 <itunes:keywords>Linux Lifestyle, Linux Voice, Steam, Kim Dotcom, Turing, Krita, Windows 8 </itunes:keywords>
@@ -1264,10 +1264,10 @@ type="audio/ogg" />
 <description>
 In this episode: OpenBSD forks OpenSSL to create LibreSSL. Internet Explorer has a security bug that won't be fixed in Windows XP. Ubuntu 14.04 has been released and Canonical may drop Ubuntu for Android. Ben discovers how to tie his shoelaces, we've got some great neurons and the internet famous Voice of the Masses.
 </description>
-<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e08.ogg" length="XXXX" 
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s02e08.ogg" length="5000000" 
 type="audio/ogg" />
 <pubDate>Thu, 1 May 2014 10:00:00 GMT</pubDate>
-<itunes:duration>X:XX:XX</itunes:duration>
+<itunes:duration>1:10:00</itunes:duration>
 <itunes:keywords>Linux Lifestyle, Linux Voice, Ubuntu, Raspberry Pi, Microsoft, Linux, Heartbleed, Gnome, FreeBSD </itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-2-episode-8/</guid>
 </item>
@@ -1280,7 +1280,7 @@ type="audio/ogg" />
 In this episode: Heartbleed has disrupted online security. Edward Snowden used Linux. A new Civilization game is coming to Linux. Canonical has cancelled Ubuntu One and there's a new Raspberry Pi. We've also got a rather good finds section, some neurons and an polemic Voice of the Masses.
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s02e07.ogg" length="62850874" 
-type="audio/ogg;" />
+type="audio/ogg" />
 <pubDate>Thu, 17 Apr 2014 20:00:00 GMT</pubDate>
 <itunes:duration>1:14:02</itunes:duration>
 <itunes:keywords>Linux Lifestyle, Linux Voice, Ubuntu, Raspberry Pi, Microsoft, Linux, Heartbleed, Gnome </itunes:keywords>

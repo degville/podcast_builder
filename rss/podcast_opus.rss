@@ -7,7 +7,7 @@ xml:lang='en-GB'>
 <channel>
 <title>Linux Voice Podcast</title>
 <link>http://www.linuxvoice.com/podcast_opus.rss</link>
-<atom:link href="http://www.linuxvoice.com/podcast_opus.rss" rel="self" type="application/rss+xml"/>
+<atom:link href="https://www.linuxvoice.com/podcast_opus.rss" rel="self" type="application/rss+xml"/>
 <language>en</language>
 <copyright>Released under the Creative Commons Attribution-Share Alike 3.0 Unported Licence</copyright>
 <description>Linux chat and banter</description>
@@ -38,7 +38,7 @@ xml:lang='en-GB'>
 In this episode: More free devices, SHA1 is broken, new Pis and lots of finds. Plus Voice of the Masses,.
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s05e04.opus" length="16453478" type="audio/ogg; codecs=opus"/>
-<pubDate>Thu, 16 Mar 2017 00:00:00 -0000</pubDate>
+<pubDate>Thu, 16 Mar 2017 00:00:00 GMT</pubDate>
 <itunes:duration>0:48:34</itunes:duration>
 <itunes:keywords>fsf, ubuntu, Qt, Nvidia, sha1, Linux, Linux Voice</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-5-episode-4</guid>
@@ -52,7 +52,7 @@ In this episode: More free devices, SHA1 is broken, new Pis and lots of finds. P
 In this episode: 32 bits are no longer enough, there's crowdfunding for Elementary and small PCs, and Munich fakes the news. Plus lots of discoveries.
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s05e03.opus" length="21574197" type="audio/ogg; codecs=opus"/>
-<pubDate>Thu, 23 Feb 2017 00:00:00 -0000</pubDate>
+<pubDate>Thu, 23 Feb 2017 00:00:00 GMT</pubDate>
 <itunes:duration>1:02:28</itunes:duration>
 <itunes:keywords>Munich, Limux, Microsoft, Elementary, Linux, Linux Voice, open source</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-5-episode-3</guid>
@@ -66,7 +66,7 @@ In this episode: 32 bits are no longer enough, there's crowdfunding for Elementa
 In this episode: We've got a live recording from FOSDEM (thanks Mike!), lots of news, lots of Finds and an awesome Voice of the Masses.
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s05e02.opus" length="24002344" type="audio/ogg; codecs=opus"/>
-<pubDate>Thu, 09 Feb 2017 00:00:00 -0000</pubDate>
+<pubDate>Thu, 09 Feb 2017 00:00:00 GMT</pubDate>
 <itunes:duration>1:11:00</itunes:duration>
 <itunes:keywords>FOSDEM, Kodi, FTP, Amiga, KDE, slimbook, Cryptkeeper</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-5-episode-2</guid>
@@ -80,7 +80,7 @@ In this episode: We've got a live recording from FOSDEM (thanks Mike!), lots of 
 In this episode: Sayonara cyanogenmod, hello Dell, open source Pi and KillDisk. Plus some awesome finds and a fresh new VotM.
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s05e01.opus" length="19417565" type="audio/ogg; codecs=opus"/>
-<pubDate>Thu, 26 Jan 2017 00:00:00 -0000</pubDate>
+<pubDate>Thu, 26 Jan 2017 00:00:00 GMT</pubDate>
 <itunes:duration>0:55:59</itunes:duration>
 <itunes:keywords>Cyanogenmod, Dell, KillDisk, Linux, Linux Voice</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-5-episode-1</guid>
@@ -253,7 +253,7 @@ In this episode: We attempt a happy news section, including Linux desktop domina
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s04e10.opus" length="18215325" 
 type="audio/ogg; codecs=opus" />
-<pubDate>Thu, 22 Jun 2016 11:00:00 GMT</pubDate>
+<pubDate>Wed, 22 Jun 2016 11:00:00 GMT</pubDate>
 <itunes:duration>56:40</itunes:duration>
 <itunes:keywords>Snap, Flatpak, Red Hat, Canonical, OwnCloud, Brexit, GNU, Linux Voice, Linux</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-4-episode-10/</guid>
@@ -392,7 +392,7 @@ In this episode: Good news from Qt and bad news for 32 bit Google Chrome users. 
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s04e02.opus" length="22238074" 
 type="audio/ogg; codecs=opus" />
-<pubDate>Thu, 27 Jan 2016 11:00:00 GMT</pubDate>
+<pubDate>Wed, 27 Jan 2016 11:00:00 GMT</pubDate>
 <itunes:duration>1:04:03</itunes:duration>
 <itunes:keywords>Digia, Qt, Google Chrome, Linux Foundation, Microsoft, AMD, PS4,  government, GNU, Linux Voice, Linux</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-4-episode-02/</guid>
@@ -462,7 +462,7 @@ In this episode: More epic discussions about privacy, encryption and the Investi
 </description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s03e20.opus" length="27038611" 
 type="audio/ogg; codecs=opus" />
-<pubDate>Thu, 18 Nov 2015 10:00:00 GMT</pubDate>
+<pubDate>Wed, 18 Nov 2015 10:00:00 GMT</pubDate>
 <itunes:duration>1:18:25</itunes:duration>
 <itunes:keywords>Privacy, Encryption, Politics, Steam, Security, GNU, Linux Voice, Linux</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-3-episode-20/</guid>
@@ -823,47 +823,6 @@ type="audio/ogg; codecs=opus" />
 </item>
 
 <item>
-<title>Season 3 Episode 2</title>
-<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
-<itunes:subtitle>Title: Schneiers Law</itunes:subtitle>
-<description><![CDATA[ 
-
-In this episode: There's yet another serious Linux vulnerability to contend with, but there are new Linux machines from Dell. Bodhi Linux is making a return and there's a new version LibreOffice, including a version for Android. We've got lots of tasty Finds and a Voice of the Masses about old hardware.</br>
-
-News:
-The glibc GHOST buffer overflow vulnerability is remotely triggerable and potentially a serious threat to your servers. Here's the Super Mario World exploit being performed on a real SNES (rather than an emulator). Dell has updated and expanded its Linux-running Developer Edition range. Bodhi Linux has returned from the abyss, bringing with it a release candidate of 3.0. LibreOffice 4.4 has been released, and there's now a beta version, of sorts, for Android.</br>
-Finds of the Fortnight:
-From our #linuxvoice IRC channel on Freenode:
-<dije> Umm... Quodlibet sucks less than Rhythmbox, Banshee etc. Does that count? And its companion tagging app, ExFalso, is teh smartness..
-<dije> Here's a newbie-friendly one: To get Your Picture Here in the login session "greeter", put a 96x96 pixel PNG file called .face in your home dir. Maybe that's for a newb section in the mag; not really a "find".
-<dije> For the keyboard-centric anti-mousing fanatic, Conkeror is a web browser based on the same XulRunner engine that Firefox uses. Very efficient. Runs some but not all Firefox plugins -- basically the ones that don't assume Firefox presentation widgets are always present. Very Emacs-y in conception and implementation, including being customizable and even reprogrammable at runtime, using standard JavaScript.
-<AdamDBrown> RFC 1149 IP Datagrams on Avian Carriers.</br>
-Graham:
-Head tracking with OpenTracker and LinuxTrack.
-PaperWorks is an open source Evernote/Google Keep note taking platform.</br>
-Andrew:
-Valve had an in-house economist who is now Greece's new Finance Minister.</br>
-Ben:
-linux.conf.au 2015 has put all its talks online.
-Daala is a completely open and uniquely engineered (by Mozilla and Xiph.Org Foundations) video codec that even has its own Javascript implementation.
-Evolve OS's beta Budgie desktop is looking rather good.</br>
-Mike:
-Lille is actually a rather nice French town.
-vsch, a git wrapper that allows you to have several git repositories in a single directory - very useful for your home directory.</br>
-Vocalise Your Neurons:
-New Year apathy means we have no neurons. But if you'd like yours read out next time, email them to mike@linuxvoice.com.</br>
-Voice of the Masses: What's your oldest machine running Linux?</br>
-
-]]></description>
-<enclosure url="http://www.linuxvoice.com/episodes/lv_s03e02.opus" length="23161527" 
-type="audio/ogg; codecs=opus" />
-<pubDate>Thu, 29 Jan 2015 20:00:00 GMT</pubDate>
-<itunes:duration>1:08:44</itunes:duration>
-<itunes:keywords>Linux Voice, Canonical, Ubuntu, GHOST, Bodhi, Arch, Linux</itunes:keywords>
-<guid>http://www.linuxvoice.com/podcast-season-3-episode-2/</guid>
-</item>
-
-<item>
 <title>Season 3 Episode 1</title>
 <itunes:author>Ben Everard, Andrew Gregory and Graham Morrison.</itunes:author>
 <itunes:subtitle>Title: Cabaret Voltaire</itunes:subtitle>
@@ -1120,7 +1079,7 @@ Voice of the Masses: Have Heartbleed and Shellshock changed your attitude to ope
 ]]></description>
 <enclosure url="http://www.linuxvoice.com/episodes/lv_s02e18.opus" length="11152799" 
 type="audio/ogg; codecs=opus" />
-<pubDate>Thu, 8 Oct 2014 09:00:00 GMT</pubDate>
+<pubDate>Wed, 8 Oct 2014 09:00:00 GMT</pubDate>
 <itunes:duration>32:52</itunes:duration>
 <itunes:keywords>Linux Voice, OggCamp, Minecraft, Shellshock, Raspberry Pi</itunes:keywords>
 <guid>http://www.linuxvoice.com/podcast-season-2-episode-18/</guid>
