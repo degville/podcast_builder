@@ -31,6 +31,20 @@ xml:lang='en-GB'>
 <!-- Paste latest Linux Voice podcast here -->
 
 <item>
+<title>Season 5 Episode 5</title>
+<itunes:author>Ben Everard, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Brrrrexit</itunes:subtitle>
+<description>
+In this episode: We're doing a live event, there's lots of news (some of it good),  we've got awesome finds and a feel good vox populi.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s05e05.ogg" length="66055441" type="audio/ogg"/>
+<pubDate>Thu, 30 Mar 2017 23:00:00 -0000</pubDate>
+<itunes:duration>1:16:55</itunes:duration>
+<itunes:keywords>Matrix, Brexit, Privacy, Encryption, distros, Linux, Linux Voice</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-5-episode-5</guid>
+</item>
+
+<item>
 <title>Season 5 Episode 4</title>
 <itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
 <itunes:subtitle>Title: Always make a backup</itunes:subtitle>

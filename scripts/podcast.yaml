@@ -1,33 +1,32 @@
 general:
     season: 5
-    episode: 4
-    date: 2017-03-16
-    title: Always make a backup 
-    overview: More free devices, SHA1 is broken, new Pis and lots of finds. Plus Voice of the Masses,
-    presenters: Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders
-    tags: fsf, ubuntu, Qt, Nvidia, sha1, Linux, Linux Voice
+    episode: 5
+    date: 2017-03-31
+    title: Brrrrexit 
+    overview: We're doing a live event, there's lots of news (some of it good),  we've got awesome finds and a feel good vox populi
+    presenters: Ben Everard, Graham Morrison and Mike Saunders
+    tags: Matrix, Brexit, Privacy, Encryption, distros, Linux, Linux Voice
 news:
-    Three new pieces of hardware certified as Respecting your Freedom by FSF (made by Viking GMBH): https://www.fsf.org/news/three-devices-from-vikings-gmbh-now-fsf-certified-to-respect-your-freedom
-    Oh SHA-1 T! : https://arstechnica.co.uk/security/2017/02/at-deaths-door-for-years-widely-used-sha1-function-is-now-dead/
-    Nvidia opens Qt 3D Studio source code: http://blog.qt.io/blog/2017/02/20/introducing-qt-3d-studio/
-    There's a new Raspberry Pi, the Zero W, now with a bluetooth and wifi option for $10: https://www.raspberrypi.org/products/pi-zero-w/
-    Happy days! OggCamp 2017 will take place Saturday 19th August in Canterbury, UK: http://oggcamp.org/
+    Go to FOSS Talk Live: https://www.fosstalk.com/
+    American politicians have a competition to see who can erode privacy the most: https://www.washingtonpost.com/news/the-switch/wp/2017/03/28/the-house-just-voted-to-wipe-out-the-fccs-landmark-internet-privacy-protections/?utm_term=.15274ace290f
+    British politicians have a competition to see who can erode privacy the most: https://www.theguardian.com/technology/2017/mar/26/intelligence-services-access-whatsapp-amber-rudd-westminster-attack-encrypted-messaging)
+    26% of developers use Linux: https://stackoverflow.com/insights/survey/2017/#technology-platforms (compared with 32% Win and 15% OSX)
+    Microsoft Office 365 is rubbish in Linux. Now better?: https://www.theregister.co.uk/2017/03/23/microsoft_onedrive_linux_slow/
+    Nextcloud scanning the web for Owncloud and Nextcloud instances and sending abuse complaints to people who aren't secure: https://help.nextcloud.com/t/someone-scans-the-internet-for-nc-oc-instances/8992/32
 finds:
     irc:
-        TwistedLucidity; QMapShack, a great tool for creating GPX tracks: https://bitbucket.org/maproom/qmapshack/wiki/Home
-        TwistedLucidity; OsmAnd, orders of magnitude better than Google Maps: http://osmand.net/
-        JonTheNiceGuy; matrix.org and riot.im are awesome: http://matrix.org/
-        JonTheNiceGuy; check out the admin admin podcast: http://www.adminadminpodcast.co.uk/
-        arubislander; Instead of Google, use howdoi on the command line: https://github.com/gleitz/howdoi
+        mtbu; I have found QupZilla after getting frustrated by the size and slowness of Firefox: https://www.mozilla.org/en-US/firefox/products/
+        rachelimit; Matrix doesn't only Slack and Signal access, it also lets you have uninterrupted access to IRC: http://matrix.org/ 
+        Omniferous Implementer; Simple OpenVPN setup and configuration with PiVPN: http://www.pivpn.io/ 
     graham:
-        SteamVR has finally been released for Linux: https://github.com/ValveSoftware/SteamVR-for-Linux 
+        Arrival is quite a good film: https://en.wikipedia.org/wiki/Arrival_(film)
+        Commodore The Inside Story: https://www.kickstarter.com/projects/469255657/commodore-the-inside-story
     ben:
-        Fix a corrupt sudoers file using pkexec: https://www.freedesktop.org/software/polkit/docs/0.105/pkexec.1.html
+        Hadoop and Amazon's Elastic Map Reduce: https://aws.amazon.com/emr/
     mike:
-        Firefox is getting a feature called containers: https://wiki.mozilla.org/Security/Contextual_Identity_Project/Containers
-    andrew:
-        Planet Terror: https://en.wikipedia.org/wiki/Planet_Terror
+        Pretend you're reading your mail (but secretly browse Reddit) with MSOutlookit: http://pcottle.github.io/MSOutlookit/
+        Make your own 8-bit computer: https://www.youtube.com/watch?v=HyznrdDSSGM&index=1&list=PLowKtXNTBypGqImE405J2565dvjafglHU
 neurons: 
-    Hans: reminding us that Fairphone is onto something
+
 votm:
-    How many Raspberry Pis do you have?: https://www.linuxvoice.com/voice-of-the-masses-how-many-raspberry-pis-do-you-have/#comments 
+    What has been your distro path over the years: https://www.linuxvoice.com/voice-of-the-masses-what-has-been-your-distro-path-over-the-years/#comments
