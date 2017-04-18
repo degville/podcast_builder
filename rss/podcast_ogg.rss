@@ -31,6 +31,20 @@ xml:lang='en-GB'>
 <!-- Paste latest Linux Voice podcast here -->
 
 <item>
+<title>Season 5 Episode 6</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Y U N I T</itunes:subtitle>
+<description>
+In this episode: Unity is gone. Mir is gone. But we have some good news. And lots of Finds. And a luxury Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s05e06.ogg" length="60510408" type="audio/ogg"/>
+<pubDate>Wed, 12 Apr 2017 23:00:00 -0000</pubDate>
+<itunes:duration>1:16:55</itunes:duration>
+<itunes:keywords>Canonical, Unity, Mir, Ubuntu, Nginx, NSA, distros, Linux, Linux Voice</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-5-episode-6</guid>
+</item>
+
+<item>
 <title>Season 5 Episode 5</title>
 <itunes:author>Ben Everard, Graham Morrison and Mike Saunders.</itunes:author>
 <itunes:subtitle>Title: Brrrrexit</itunes:subtitle>

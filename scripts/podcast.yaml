@@ -1,32 +1,35 @@
 general:
     season: 5
-    episode: 5
-    date: 2017-03-31
-    title: Brrrrexit 
-    overview: We're doing a live event, there's lots of news (some of it good),  we've got awesome finds and a feel good vox populi
-    presenters: Ben Everard, Graham Morrison and Mike Saunders
-    tags: Matrix, Brexit, Privacy, Encryption, distros, Linux, Linux Voice
+    episode: 6
+    date: 2017-04-13
+    title:  Y U N I T
+    overview: Unity is gone. Mir is gone. But we have some good news. And lots of Finds. And a luxury Voice of the Masses
+    presenters: Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders
+    tags: Canonical, Unity, Mir, Ubuntu, Nginx, NSA, distros, Linux, Linux Voice
 news:
-    Go to FOSS Talk Live: https://www.fosstalk.com/
-    American politicians have a competition to see who can erode privacy the most: https://www.washingtonpost.com/news/the-switch/wp/2017/03/28/the-house-just-voted-to-wipe-out-the-fccs-landmark-internet-privacy-protections/?utm_term=.15274ace290f
-    British politicians have a competition to see who can erode privacy the most: https://www.theguardian.com/technology/2017/mar/26/intelligence-services-access-whatsapp-amber-rudd-westminster-attack-encrypted-messaging)
-    26% of developers use Linux: https://stackoverflow.com/insights/survey/2017/#technology-platforms (compared with 32% Win and 15% OSX)
-    Microsoft Office 365 is rubbish in Linux. Now better?: https://www.theregister.co.uk/2017/03/23/microsoft_onedrive_linux_slow/
-    Nextcloud scanning the web for Owncloud and Nextcloud instances and sending abuse complaints to people who aren't secure: https://help.nextcloud.com/t/someone-scans-the-internet-for-nc-oc-instances/8992/32
+    Ubuntu goes Gnome as Canonical refocuses on Cloud and IoT: https://insights.ubuntu.com/2017/04/05/growing-ubuntu-for-cloud-and-iot-rather-than-phone-and-convergence/
+    Unity has forked to Yunit: https://yunit.io/
+    Nginx reaches 33.3 per cent of the web, Apache falls below 50 per cent: https://w3techs.com/blog/entry/nginx_reaches_33_3_percent_web_server_market_share_while_apache_falls_below_50_percent
+    NSA hacking tools dumped: https://github.com/x0rz/EQGRP
 finds:
     irc:
-        mtbu; I have found QupZilla after getting frustrated by the size and slowness of Firefox: https://www.mozilla.org/en-US/firefox/products/
-        rachelimit; Matrix doesn't only Slack and Signal access, it also lets you have uninterrupted access to IRC: http://matrix.org/ 
-        Omniferous Implementer; Simple OpenVPN setup and configuration with PiVPN: http://www.pivpn.io/ 
+        edinab; Ben is a prophet: https://www.linuxvoice.com/podcast-season-2-episode-15/
+        rachelimit; get_iplayer with tvworst mode is awesome when you're on holiday:  https://github.com/get-iplayer/get_iplayer
+        mcphail; Thimbleweed Park is a super new-but-old-style point and click adventure: https://thimbleweedpark.com/
+        Aealan; the HT Editor, a feature rich disassembler and editor that supports many formats and runs on win and Linux: http://hte.sourceforge.net/
+        danke; /proc/pid/fd contains open file symlinks to processes identified by pid: http://man7.org/linux/man-pages/man5/proc.5.html 
+        Arthur_D; run through short Python snippets line by line and draw graphs to visualize: http://www.pythontutor.com/visualize.html
+    andrew:
+        Watch the next series of Mastermind: http://www.bbc.co.uk/programmes/b006mk1s    
+        The National Museum of Computing is non-fantastic: http://www.tnmoc.org/
     graham:
-        Arrival is quite a good film: https://en.wikipedia.org/wiki/Arrival_(film)
-        Commodore The Inside Story: https://www.kickstarter.com/projects/469255657/commodore-the-inside-story
+        See audio with Sonic Visualiser: http://www.sonicvisualiser.org/ 
     ben:
-        Hadoop and Amazon's Elastic Map Reduce: https://aws.amazon.com/emr/
+        Web Data Commons offers a set of extractions from the entire internet: http://webdatacommons.org/   
     mike:
-        Pretend you're reading your mail (but secretly browse Reddit) with MSOutlookit: http://pcottle.github.io/MSOutlookit/
-        Make your own 8-bit computer: https://www.youtube.com/watch?v=HyznrdDSSGM&index=1&list=PLowKtXNTBypGqImE405J2565dvjafglHU
+        Chamoy Thipyaso was sentenced to 141078 years in prison: https://en.wikipedia.org/wiki/Chamoy_Thipyaso
+        ReactOS is in positin 15 on Distrowatch: https://distrowatch.com/
 neurons: 
 
 votm:
-    What has been your distro path over the years: https://www.linuxvoice.com/voice-of-the-masses-what-has-been-your-distro-path-over-the-years/#comments
+    Will you miss Ubuntu's Unity: https://www.linuxvoice.com/voice-of-the-masses-will-you-miss-ubuntus-unity/#comments
