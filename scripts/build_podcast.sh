@@ -5,7 +5,7 @@
 YELLOW='\e[1;33m'
 RED='\e[0;31m'
 NC='\e[0m' # No Color
-SERVER='localhost:/home' # <- Change this
+SERVER='localhost:/home/graham/' # <- Change this
 
 echo -e "${YELLOW}Generating audio files...${RED}"
 ./build_audio.py
@@ -41,7 +41,7 @@ else
 fi
 
 echo -e "${YELLOW}Copying RSS to server.${NC}"
-scp ../rss/podcast_*.rss irc.linuxvoice.com:/home/graham/
+scp ../rss/podcast_*.rss ${SERVER}
 echo -e "${YELLOW}Copying audio to server.${NC}"
 scp ../audio/lv_*.mp3 ../audio/lv_*.ogg ../audio/lv_*.opus ${SERVER}
 
