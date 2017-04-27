@@ -31,6 +31,20 @@ xml:lang='en-GB'>
 <!-- Paste latest Linux Voice podcast here -->
 
 <item>
+<title>Season 5 Episode 7</title>
+<itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Les Saboteurs</itunes:subtitle>
+<description>
+In this episode: Billions of Finds, some great news and a fabulous Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s05e07.mp3" length="74318022" type="audio/mp3"/>
+<pubDate>Wed, 26 Apr 2017 23:00:00 -0000</pubDate>
+<itunes:duration>1:08:37</itunes:duration>
+<itunes:keywords>Unity, Debian, systemd, Dell, Microsoft, distros, Linux, Linux Voice</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-5-episode-7</guid>
+</item>
+
+<item>
 <title>Season 5 Episode 6</title>
 <itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
 <itunes:subtitle>Title: Y U N I T</itunes:subtitle>

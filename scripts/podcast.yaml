@@ -1,35 +1,38 @@
 general:
     season: 5
-    episode: 6
-    date: 2017-04-13
-    title:  Y U N I T
-    overview: Unity is gone. Mir is gone. But we have some good news. And lots of Finds. And a luxury Voice of the Masses
+    episode: 7
+    date: 2017-04-27
+    title: Les Saboteurs
+    overview: Billions of Finds, some great news and a fabulous Voice of the Masses 
     presenters: Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders
-    tags: Canonical, Unity, Mir, Ubuntu, Nginx, NSA, distros, Linux, Linux Voice
+    tags: Unity, Debian, systemd, Dell, Microsoft, distros, Linux, Linux Voice
 news:
-    Ubuntu goes Gnome as Canonical refocuses on Cloud and IoT: https://insights.ubuntu.com/2017/04/05/growing-ubuntu-for-cloud-and-iot-rather-than-phone-and-convergence/
-    Unity has forked to Yunit: https://yunit.io/
-    Nginx reaches 33.3 per cent of the web, Apache falls below 50 per cent: https://w3techs.com/blog/entry/nginx_reaches_33_3_percent_web_server_market_share_while_apache_falls_below_50_percent
-    NSA hacking tools dumped: https://github.com/x0rz/EQGRP
+    Microsoft to start selling Linux (well, Android): http://www.techrepublic.com/article/samsung-galaxy-s8-microsoft-edition-reveals-microsofts-true-business-strategy/
+    There's a new Dell high-endwork station (Precision 5720) comes with Ubuntu or Red Hat: http://www.dell.com/en-us/work/shop/productdetails/precision-5720-aio/xctop5720aious?stp=1&oc=xctop5720aious
+    Debian contributor Dmity Bogatov arrested: https://www.debian.org/News/2017/20170417.en.html
+    Devuan reaches 1.0 (almost): https://devuan.org/
 finds:
     irc:
-        edinab; Ben is a prophet: https://www.linuxvoice.com/podcast-season-2-episode-15/
-        rachelimit; get_iplayer with tvworst mode is awesome when you're on holiday:  https://github.com/get-iplayer/get_iplayer
-        mcphail; Thimbleweed Park is a super new-but-old-style point and click adventure: https://thimbleweedpark.com/
-        Aealan; the HT Editor, a feature rich disassembler and editor that supports many formats and runs on win and Linux: http://hte.sourceforge.net/
-        danke; /proc/pid/fd contains open file symlinks to processes identified by pid: http://man7.org/linux/man-pages/man5/proc.5.html 
-        Arthur_D; run through short Python snippets line by line and draw graphs to visualize: http://www.pythontutor.com/visualize.html
+        arubislander; A project that aims to keep Unity 7 alive: https://launchpad.net/unit-desktop/+announcements
+        korruptor; There's a new ZX Spectrum in the works: https://www.facebook.com/groups/specnext   
+        mcphail; Tomb Raider in a web browser: http://xproger.info/projects/OpenLara/
+        Devilment; A PUTTY client for Linux: http://www.chiark.greenend.org.uk/~sgtatham/putty/
+        james_ol1mpus; Use strace to list nfiles a process tried to write to: https://linux.die.net/man/1/strace
+        Ioangogo; IoT stuff done right by IKEA: https://home-assistant.io/blog/2017/04/17/ikea-tradfri-internet-of-things-done-right/
+        Ioangogo; A location tracker based on the mqtt standard: http://owntracks.org/
+        JonTheNiceGuy; Udemy have a massive discount for 40 hours,  all video training courses are £10, some discounted from £200: https://www.udemy.com/courses/
+        zmoylan-pi; The new Amiga is reviewed in a podcast: http://www.amigapodcast.com/2017/04/amigaone-x5000-first-impression.html
     andrew:
-        Watch the next series of Mastermind: http://www.bbc.co.uk/programmes/b006mk1s    
-        The National Museum of Computing is non-fantastic: http://www.tnmoc.org/
+        Oxford's Bodleian Library is hosting an exposition on JR Tolkien in 2018: https://www.bodleian.ox.ac.uk/oua/news/2017/mar-17
     graham:
-        See audio with Sonic Visualiser: http://www.sonicvisualiser.org/ 
+        The vim-keyboard bindings qutebrowser has another crowdfunding campaign: https://www.kickstarter.com/projects/the-compiler/qutebrowser-v10-with-per-domain-settings?ref=6zw7qz 
+        My KDE Plasma 5.9 demo:  https://youtu.be/yxs5OwhD6ew
+        tmux scripting: http://www.peterdebelak.com/blog/tmux-scripting/
     ben:
-        Web Data Commons offers a set of extractions from the entire internet: http://webdatacommons.org/   
+        StreetComplete turns missing OpenStreet Map information into missions: http://wiki.openstreetmap.org/wiki/StreetComplete 
     mike:
-        Chamoy Thipyaso was sentenced to 141078 years in prison: https://en.wikipedia.org/wiki/Chamoy_Thipyaso
-        ReactOS is in positin 15 on Distrowatch: https://distrowatch.com/
+        Mike's latest rocket launch: https://www.youtube.com/watch?v=glEvogjdEVY        
 neurons: 
 
 votm:
-    Will you miss Ubuntu's Unity: https://www.linuxvoice.com/voice-of-the-masses-will-you-miss-ubuntus-unity/#comments
+    What's your favourite programming language: https://www.linuxvoice.com/voice-of-the-masses-whats-your-favourite-programming-language/#comments 
