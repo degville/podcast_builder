@@ -31,6 +31,20 @@ xml:lang='en-GB'>
 <!-- Paste latest Linux Voice podcast here -->
 
 <item>
+<title>Season 5 Episode 8</title>
+<itunes:author>Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Haynes Coding Manual</itunes:subtitle>
+<description>
+In this episode: More Canonical news, Fedora to ship mp3 and lots of Pi Zero Ws. Plus many Finds and VotM.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s05e08.ogg" length="49371259" type="audio/ogg"/>
+<pubDate>Tue, 09 May 2017 23:00:00 -0000</pubDate>
+<itunes:duration>1:01:12</itunes:duration>
+<itunes:keywords>Canonical, Linux, Ubuntu, Fedora, Raspberry Pi, Linux Voice</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-5-episode-8</guid>
+</item>
+
+<item>
 <title>Season 5 Episode 7</title>
 <itunes:author>Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
 <itunes:subtitle>Title: Les Saboteurs</itunes:subtitle>

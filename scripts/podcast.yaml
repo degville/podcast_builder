@@ -1,38 +1,39 @@
 general:
     season: 5
-    episode: 7
-    date: 2017-04-27
-    title: Les Saboteurs
-    overview: Billions of Finds, some great news and a fabulous Voice of the Masses 
-    presenters: Ben Everard, Andrew Gregory, Graham Morrison and Mike Saunders
-    tags: Unity, Debian, systemd, Dell, Microsoft, distros, Linux, Linux Voice
+    episode: 8
+    date: 2017-05-10
+    title: Haynes Coding Manual
+    overview: More Canonical news, Fedora to ship mp3 and lots of Pi Zero Ws. Plus many Finds and VotM
+    presenters: Andrew Gregory, Graham Morrison and Mike Saunders
+    tags: Canonical, Linux, Ubuntu, Fedora, Raspberry Pi, Linux Voice
 news:
-    Microsoft to start selling Linux (well, Android): http://www.techrepublic.com/article/samsung-galaxy-s8-microsoft-edition-reveals-microsofts-true-business-strategy/
-    There's a new Dell high-endwork station (Precision 5720) comes with Ubuntu or Red Hat: http://www.dell.com/en-us/work/shop/productdetails/precision-5720-aio/xctop5720aious?stp=1&oc=xctop5720aious
-    Debian contributor Dmity Bogatov arrested: https://www.debian.org/News/2017/20170417.en.html
-    Devuan reaches 1.0 (almost): https://devuan.org/
+    Canonical could be on the path to an IPO: http://www.zdnet.com/article/canonical-starts-ipo-path/
+    Fedora will now have full mp3 audio support: https://arstechnica.co.uk/gadgets/2016/12/fedora-25-review-the-best-linux-distro-of-2016-arrived-at-the-last-moment/
+    250,000 Pi Zero W units have been shipped: https://www.raspberrypi.org/blog/pi-zero-distributors-annoucement/
 finds:
     irc:
-        arubislander; A project that aims to keep Unity 7 alive: https://launchpad.net/unit-desktop/+announcements
-        korruptor; There's a new ZX Spectrum in the works: https://www.facebook.com/groups/specnext   
-        mcphail; Tomb Raider in a web browser: http://xproger.info/projects/OpenLara/
-        Devilment; A PUTTY client for Linux: http://www.chiark.greenend.org.uk/~sgtatham/putty/
-        james_ol1mpus; Use strace to list nfiles a process tried to write to: https://linux.die.net/man/1/strace
-        Ioangogo; IoT stuff done right by IKEA: https://home-assistant.io/blog/2017/04/17/ikea-tradfri-internet-of-things-done-right/
-        Ioangogo; A location tracker based on the mqtt standard: http://owntracks.org/
-        JonTheNiceGuy; Udemy have a massive discount for 40 hours,  all video training courses are £10, some discounted from £200: https://www.udemy.com/courses/
-        zmoylan-pi; The new Amiga is reviewed in a podcast: http://www.amigapodcast.com/2017/04/amigaone-x5000-first-impression.html
+        JonTheNiceGuy; Keepass2 is the Mono version of KeePass which runs under Linux: http://keepass.info/help/v2/setup.html#mono
+        JonTheNiceGuy;  To print from Android to a CUPS server, install google-print-connector: https://github.com/google/cloud-print-connector/wiki/Install
+        JonTheNiceGuy;  Go to OGGCamp 2017: http://oggcamp.org/
+        einonm; Krop looks at the pages of a PDF and trims the blank margins down to size: http://arminstraub.com/software/krop
+        einonm; Get your life recorded by google on the cheap: https://techcrunch.com/2017/05/04/this-diy-google-home-uses-raspberry-pi-and-cardboard-to-make-the-magic-happen/
+        einonm; Track interesting publications and citations, but great for collecting any sort of random web pages: https://www.zotero.org/
+        arubislander; Make notes with tags and images: http://rednotebook.sourceforge.net/
+        arubislander; Endless OS could be the successor to Meego and OLPC: https://endlessos.com/
+        Blackisle; Regular expressions made simple: https://simple-regex.com/
+        mcphail; Another open source game engine based on Jedi Academy: https://github.com/JACoders/OpenJK
+        Ioangogo; Nodemcu, a WiFi-enabled Arduino: http://nodemcu.com/index_en.html
     andrew:
-        Oxford's Bodleian Library is hosting an exposition on JR Tolkien in 2018: https://www.bodleian.ox.ac.uk/oua/news/2017/mar-17
+        If you're suffering from depression, stress or anxiety, your GP won't laugh at you: http://www.nhs.uk/livewell/mentalhealth/Pages/Mentalhealthhome.aspx      
     graham:
-        The vim-keyboard bindings qutebrowser has another crowdfunding campaign: https://www.kickstarter.com/projects/the-compiler/qutebrowser-v10-with-per-domain-settings?ref=6zw7qz 
-        My KDE Plasma 5.9 demo:  https://youtu.be/yxs5OwhD6ew
-        tmux scripting: http://www.peterdebelak.com/blog/tmux-scripting/
+        Get some awesome audio effects for PulseAudio: https://github.com/wwmm/pulseeffects
+        I'm going to try and create more soothing Linux videos: https://www.youtube.com/channel/UCqOeS6FY8siUfKqAt4BxbUA
     ben:
-        StreetComplete turns missing OpenStreet Map information into missions: http://wiki.openstreetmap.org/wiki/StreetComplete 
+    
     mike:
-        Mike's latest rocket launch: https://www.youtube.com/watch?v=glEvogjdEVY        
+        Buy the Haynes Coding Manual: https://haynes.com/en-gb/coding-manual
+        The height disparity of Zugspitze: https://en.wikipedia.org/wiki/Zugspitze
 neurons: 
 
 votm:
-    What's your favourite programming language: https://www.linuxvoice.com/voice-of-the-masses-whats-your-favourite-programming-language/#comments 
+    Should GIMP be renamed: https://www.linuxvoice.com/voice-of-the-masses-should-gimp-be-renamed/#comments
