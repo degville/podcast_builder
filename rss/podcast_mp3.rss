@@ -31,6 +31,20 @@ xml:lang='en-GB'>
 <!-- Paste latest Linux Voice podcast here -->
 
 <item>
+<title>Season 5 Episode 10</title>
+<itunes:author>Andrew Gregory, Ben Everard and Graham Morrison.</itunes:author>
+<itunes:subtitle>Title: Vellum</itunes:subtitle>
+<description>
+In this episode: High DPI gets a makeover, Pi gets malware, printers get tracked plus vague political references.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s05e10.mp3" length="51167201" type="audio/mp3"/>
+<pubDate>Wed, 14 Jun 2017 23:00:00 -0000</pubDate>
+<itunes:duration>0:45:20</itunes:duration>
+<itunes:keywords>Canonical, Linux, Ubuntu, Fedora, Raspberry Pi, Linux Voice</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-5-episode-10</guid>
+</item>
+
+<item>
 <title>Season 5 Episode 9</title>
 <itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison and Mike Saunders.</itunes:author>
 <itunes:subtitle>Title: Viva Mexico!</itunes:subtitle>

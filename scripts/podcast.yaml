@@ -1,34 +1,32 @@
 general:
-        season: 5
-        episode: 9
-        date: 2017-06-02
-        title: Viva Mexico!
-        overview: We have a special guest, plus drum beats and the regular assortment of Finds and Voices
-        presenters: Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison and Mike Saunders
-        tags: Microsoft, Linux, Linux Voice, NextCloud, synths, Leonard Cohen, qutebrowser
+    season: 5
+    episode: 10
+    date: 2017-06-15
+    title: Vellum 
+    overview: High DPI gets a makeover, Pi gets malware, printers get tracked plus vague political references
+    presenters: Andrew Gregory, Ben Everard and Graham Morrison
+    tags: Canonical, Linux, Ubuntu, Fedora, Raspberry Pi, Linux Voice
 news:
-        Toyata goes with Linux for its cars: https://www.engadget.com/2017/05/31/toyota-automotive-grade-linux-camry/
-        NextCloud 12 has been released with Global Scale: https://nextcloud.com/blog/welcome-to-nextcloud-12/
-        Microsoft is blocking Linux in Windows 10 S: http://www.pcworld.com/article/3197374/windows/windows-10-s-will-not-run-linux-even-though-its-a-downloadable-windows-app.html
-        Computers are beginning to fight back: https://www.theregister.co.uk/2017/05/12/nhs_hospital_shut_down_due_to_cyber_attack/
-        Even more computers are beginning to fight back: https://www.theguardian.com/business/2017/may/30/british-airways-should-come-clean-about-computer-chaos
+    Theresa May isn't going to let losing an election stop her reading our emails: http://www.independent.co.uk/life-style/gadgets-and-tech/news/theresa-may-election-latest-internet-regulation-downing-street-speech-manifesto-a7783186.html
+    Inkscape and GNOME both (independently) move to Gitlab: https://inkscape.org/en/news/2017/06/10/inkscape-moves-gitlab/ & https://inkscape.org/en/news/2017/06/10/inkscape-moves-gitlab/
+    Canonical working with Gnome to improve HiDPI support: http://www.omgubuntu.co.uk/2017/06/improved-ubuntu-hidpi-support-in-gnome
+    Raspberry Pi gets malware: http://www.zdnet.com/article/linux-malware-enslaves-raspberry-pi-to-mine-cryptocurrency/
+    Does printer output contain secret dots?: https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots
 finds:
     irc:
-        TraceyC; There's a flag to nmap that will evaluate the ciphers you're using (for encrypted secure traffic), it's nmap -sV --script ssl-enum-ciphers -p 80 servername: http://linuxcommand.org/man_pages/nmap1.html
-        JonTheNiceGuy; a useful app for reminding yourself when you've not mowed the lawn, or cleaned the blades on your fans: https://www.smartiehome.com/
-        JonTheNiceGuy; It's a todo list, habits reminder, personal journal that integrates with Pocket, Evernote, Google Fit, Github and Goodreads: https://flowdash.co/
+        james_olympus; analyse your web server response headers: https://securityheaders.io/ 
     andrew:
-        Oxford's Bodleian Library is hosting an exposition on JR Tolkien in 2018: https://www.bodleian.ox.ac.uk/oua/news/2017/mar-17
+        14th July: http://www.bbc.co.uk/programmes/b006mk1s
+        Eben Moglen on Ars Technica: https://arstechnica.co.uk/information-technology/2016/05/eben-moglen-gpl-online-advertising-is-becoming-a-perfect-despotism/
+        Tesla is about to release a kernel upgrade: https://electrek.co/2017/06/12/tesla-linux-kernel-update-web-browser-elon-musk/
     graham:
-        The new Amiga graphics card is awesome: https://github.com/mntmn/amiga2000-gfxcard 
+        Can ultraconserved words be detected with decryption algorithms?: http://www.pnas.org/content/110/21/8471.full
+        Aphex Twin's video stream page is on GitHub: https://github.com/ntslive/afx
+        The History of English podcast: http://historyofenglishpodcast.com/
     ben:
-        The Stack Overflow question on how to exit vim now has over 1,000,000 views: https://stackoverflow.com/questions/11828270/how-to-exit-the-vim-editor
-        To stop cheating in schools, Etheopia turns off the internet: https://www.theguardian.com/technology/2017/may/31/ethiopia-turns-off-internet-students-sit-exams
-        Redirect network traffic with sshuttle: https://github.com/apenwarr/sshuttle
+        Missing missing an argument from usermod can lock you out of a production server: https://linux.die.net/man/8/usermod
     mike:
-        The latest Humble Book bundle is a bunch of great Linux/open source books: https://www.humblebundle.com/books/linux-book-bundle 
-        The Scribus web site: https://www.scribus.net/
 neurons: 
-    Darren: telling us about the APL programming language
+    Kenny: reminding us about the awesome MSX
 votm:
-    What's your favourite web browser: https://www.linuxvoice.com/voice-of-the-masses-whats-your-favourite-web-browser/#comments 
+    See you at FOSS Talk Live: https://www.fosstalk.com/
