@@ -31,6 +31,20 @@ xml:lang='en-GB'>
 <!-- Paste latest Linux Voice podcast here -->
 
 <item>
+<title>Season 5 Episode 9</title>
+<itunes:author>Ben Everard, Andrew Gregory, Efrain Hernandez-Mendoza, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Viva Mexico!</itunes:subtitle>
+<description>
+In this episode: We have a special guest, plus drum beats and the regular assortment of Finds and Voices.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s05e09.opus" length="20411194" type="audio/ogg; codecs=opus"/>
+<pubDate>Thu, 01 Jun 2017 23:00:00 -0000</pubDate>
+<itunes:duration>0:58:40</itunes:duration>
+<itunes:keywords>Microsoft, Linux, Linux Voice, NextCloud, synths, Leonard Cohen, qutebrowser</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-5-episode-9</guid>
+</item>
+
+<item>
 <title>Season 5 Episode 8</title>
 <itunes:author>Andrew Gregory, Graham Morrison and Mike Saunders.</itunes:author>
 <itunes:subtitle>Title: Haynes Coding Manual</itunes:subtitle>
