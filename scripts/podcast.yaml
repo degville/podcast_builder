@@ -1,31 +1,36 @@
 general:
     season: 5
-    episode: 11
-    date: 2017-06-28
-    title: FOSS Talk 2017
-    overview: We're Live from FOSS Talk, London 2017, with a Joe Ressington and a live audience 
-    presenters: Andrew Gregory, Ben Everard and Graham Morrison
-    tags: Live, Linux, beer, Debian, csync, British politics
+    episode: 12
+    date: 2017-07-13
+    title: C64 yourself
+    overview: We've got news, loads of ace finds, a neuron, Voices and Ubuntu on Windows
+    presenters: Andrew Gregory, Ben Everard, Graham Morrison and Mike Saunders
+    tags: Microsoft, Linux, Ubuntu, Windows, Fedora, LetsEncrypt
 news:
-    Debian stretch released: https://www.debian.org/News/2017/20170617
-    Lennart Poettering is taking on Rsync: http://0pointer.net/blog/casync-a-tool-for-distributing-file-system-images.html
-    KDE Neon goes Wayland (almost): https://blog.neon.kde.org/index.php/2017/06/16/wayland-now-in-neon-dev-unstable-iso-by-default/
-    Calibre 3.0 released: https://calibre-ebook.com/new-in/twelve
-    GnuPG needs your money: https://gnupg.org/donate/
+    Ubuntu is now in the Microsoft Windows store: http://www.omgubuntu.co.uk/2017/07/ubuntu-now-available-windows-store
+    Fedora 26 has been released. Well done Team Fedora!: https://fedoramagazine.org/fedora-26-is-here/
+    The CIA has been targetting Linux machines: https://wikileaks.org/vault7/#OutlawCountry
+    LetsEncrypt will be issueing wildcard certificates from early 2018: https://letsencrypt.org/2017/07/06/wildcard-certificates-coming-jan-2018.html
 finds:
     irc:
-        mcphail; The classic text adventure, The Pawn, is available for Linux: https://strandgames.itch.io/the-pawn-by-magnetic-scrolls
-        mcphail; The Guardian Github repo: https://github.com/guardian
+        james_olympus; details of the bridges owned by Network Rail have been released in a spreadsheet: https://www.whatdotheyknow.com/request/bridges_managed_by_network_rail_2
+        JonTheNiceGuy; decentralised file sharing with iWant: https://github.com/nirvik/iWant
+        JonTheNiceGuy; encrypted email system with support for SMTP, POP, IMAP, HTTP and MOLTEN: https://magmadaemon.org/
     andrew:
-        Mastermind is soon: http://www.bbc.co.uk/programmes/b006mk1s
+        FOSS Talk Live is still awesome: https://www.fosstalk.com/     
+        12th July was the internet wide day of net neutrality: https://www.theverge.com/2017/7/12/15958030/net-neutrality-day-of-action-internet-companies-list
     graham:
-        rspamd, a replacement for spamassassin: https://rspamd.com/
-        fzf, a command-line fuzzy finder written in Go: https://github.com/junegunn/fzf
-        The word fascinus: https://en.wikipedia.org/wiki/Fascinus
+        If you use vim and git use the fugitive vim git wrapper plugin: https://github.com/tpope/vim-fugitive
+        Wikipedia, the text adventure: http://kevan.org/wikitext/
+        C64 yourself: http://c64.superdefault.com/
     ben:
-        Why avodados aren't extinct: http://www.smithsonianmag.com/arts-culture/why-the-avocado-should-have-gone-the-way-of-the-dodo-4976527/    
+        apt is not apt-get: https://itsfoss.com/apt-vs-apt-get-difference/
+        OpenSnitch is a clone of the LittleSnitch firewall utility: https://github.com/evilsocket/opensnitch
     mike:
+        The Hobgoblin pub in Bath is closing: http://www.bathchronicle.co.uk/news/bath-news/central-bath-pub-hobgoblin-close-180481    
+        Parabola GNU/Linux is almost a libre Arch Linux: https://www.parabola.nu/
+        A quote from Matthew Smith who wrote Manic Miner: http://www.carlylesmith.karoo.net/spectrum/matsmith/
 neurons: 
-    the crowd: reminding us about the reliance of the print medium
+    Jonathan: asking us about security on Linux
 votm:
-    Huge thanks to FOSS Talk Live: https://www.fosstalk.com/
+    What's your favourite CLI tool or trick: https://www.linuxvoice.com/voice-of-the-masses-whats-your-favourite-cli-tooltrick/#comments

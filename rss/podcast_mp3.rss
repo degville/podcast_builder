@@ -31,6 +31,20 @@ xml:lang='en-GB'>
 <!-- Paste latest Linux Voice podcast here -->
 
 <item>
+<title>Season 5 Episode 12</title>
+<itunes:author>Andrew Gregory, Ben Everard, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: C64 yourself</itunes:subtitle>
+<description>
+In this episode: We've got news, loads of ace finds, a neuron, Voices and Ubuntu on Windows.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s05e12.mp3" length="63380032" type="audio/mp3"/>
+<pubDate>Wed, 12 Jul 2017 23:00:00 -0000</pubDate>
+<itunes:duration>0:51:12</itunes:duration>
+<itunes:keywords>Microsoft, Linux, Ubuntu, Windows, Fedora, LetsEncrypt</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-5-episode-12</guid>
+</item>
+
+<item>
 <title>Season 5 Episode 11</title>
 <itunes:author>Andrew Gregory, Ben Everard and Graham Morrison.</itunes:author>
 <itunes:subtitle>Title: FOSS Talk 2017</itunes:subtitle>
