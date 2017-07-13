@@ -31,6 +31,20 @@ xml:lang='en-GB'>
 <!-- Paste latest Linux Voice podcast here -->
 
 <item>
+<title>Season 5 Episode 11</title>
+<itunes:author>Andrew Gregory, Ben Everard and Graham Morrison.</itunes:author>
+<itunes:subtitle>Title: FOSS Talk 2017</itunes:subtitle>
+<description>
+In this episode: We're Live from FOSS Talk, London 2017, with a Joe Ressington and a live audience.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s05e11.ogg" length="29948646" type="audio/ogg"/>
+<pubDate>Tue, 27 Jun 2017 23:00:00 -0000</pubDate>
+<itunes:duration>0:35:09</itunes:duration>
+<itunes:keywords>Live, Linux, beer, Debian, csync, British politics</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-5-episode-11</guid>
+</item>
+
+<item>
 <title>Season 5 Episode 10</title>
 <itunes:author>Andrew Gregory, Ben Everard and Graham Morrison.</itunes:author>
 <itunes:subtitle>Title: Vellum</itunes:subtitle>
