@@ -3,9 +3,10 @@
 # and upload the resultant files to a server. 
 
 YELLOW='\e[1;33m'
-RED='\e[0;31m'
+RED='\e[1;31m'
+GREEN='\e[1;32m'
 NC='\e[0m' # No Color
-SERVER='localhost:/home/graham/' # <- Change this
+SERVER='irc.linuxvoice.com:/home/graham/' # <- Change this
 
 echo -e "${YELLOW}Generating audio files...${RED}"
 ./build_audio.py
@@ -30,6 +31,7 @@ else
 fi
 
 echo -e "${YELLOW}Generating RSS...${RED}"
+cp -rf ../rss ../rss-backup
 ./build_rss.py
 
 if [ $? -ne 1 ];

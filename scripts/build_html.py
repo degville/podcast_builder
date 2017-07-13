@@ -126,7 +126,7 @@ def format_neurons(data):
 			counter += 1
 		html_neurons += '. '
 	html_neurons += html.unescape('If you would like Mike to read out your neurons next time, \
-email your thoughts to <a href="mailto:mike@linuxvoice.com">mike@linuxvoice.com</a>.\n</li></ul>\n')
+email your thoughts to his secretary <a href="mailto:graham@linuxvoice.com">graham@linuxvoice.com</a>.\n</li></ul>\n')
 
 	return html_neurons	
 
