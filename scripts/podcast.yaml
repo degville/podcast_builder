@@ -1,36 +1,40 @@
 general:
     season: 5
-    episode: 12
-    date: 2017-07-13
-    title: C64 yourself
-    overview: We've got news, loads of ace finds, a neuron, Voices and Ubuntu on Windows
+    episode: 13
+    date: 2017-08-03
+    title: Fossilised tree resin
+    overview:  We've got lots of summer-styled news, Finds and an ace Voice of the Masses
     presenters: Andrew Gregory, Ben Everard, Graham Morrison and Mike Saunders
-    tags: Microsoft, Linux, Ubuntu, Windows, Fedora, LetsEncrypt
+    tags: Krita Foundation, Slackware, Laptops, Solus
 news:
-    Ubuntu is now in the Microsoft Windows store: http://www.omgubuntu.co.uk/2017/07/ubuntu-now-available-windows-store
-    Fedora 26 has been released. Well done Team Fedora!: https://fedoramagazine.org/fedora-26-is-here/
-    The CIA has been targetting Linux machines: https://wikileaks.org/vault7/#OutlawCountry
-    LetsEncrypt will be issueing wildcard certificates from early 2018: https://letsencrypt.org/2017/07/06/wildcard-certificates-coming-jan-2018.html
+    The Krita Foundation did have some financial bother: https://krita.org/en/item/krita-foundation-in-trouble/
+    Many donations have now helped the Krita Foundation out of financial bother: https://krita.org/en/item/krita-foundation-update/  
+    Slackware has turned 24: https://www.phoronix.com/scan.php?page=news_item&px=Slackware-24-Birthday
+    Welcome to the epoch 1.5 billion: https://www.theregister.co.uk/2017/07/13/unix_timestamp_epoch_making_moment/
+    Station X is one of two new UK companies offering Linux laptops: https://stationx.rocks/
+    Star Labs is the other UK company offering Linux laptops: https://starlabs.systems/systems/
+    Solus gets a full-time developer: http://www.open-source-feed.com/2017/06/ikey-doherty-leaves-intel-and-becomes.html
 finds:
     irc:
-        james_olympus; details of the bridges owned by Network Rail have been released in a spreadsheet: https://www.whatdotheyknow.com/request/bridges_managed_by_network_rail_2
-        JonTheNiceGuy; decentralised file sharing with iWant: https://github.com/nirvik/iWant
-        JonTheNiceGuy; encrypted email system with support for SMTP, POP, IMAP, HTTP and MOLTEN: https://magmadaemon.org/
+        ioanagogo; easily host git repos for multiple users: http://gitolite.com/gitolite/index.html    
+        james_olympus; ImageMagiick handles PDFs: https://www.imagemagick.org/script/index.php
+        Tracey_C; OwnCloud users will need to update to the new app store or their apps will break: https://owncloud.org/blog/the-new-owncloud-marketplace-is-here/
+        Tracey_C; Find which PPAs you have enabled that aren't being used: https://askubuntu.com/questions/674976/check-for-and-remove-unused-ppas
     andrew:
-        FOSS Talk Live is still awesome: https://www.fosstalk.com/     
-        12th July was the internet wide day of net neutrality: https://www.theverge.com/2017/7/12/15958030/net-neutrality-day-of-action-internet-companies-list
+        The 1st August was Yorkshire Day: https://www.yorkshire.com/inspiration/features/yorkshire-day
+        John Humphrys has no chatter: https://en.wikipedia.org/wiki/John_Humphrys
+        Amber Rudd has been at it again: https://www.openrightsgroup.org/press/releases/2017/real-people-care-about-security
     graham:
-        If you use vim and git use the fugitive vim git wrapper plugin: https://github.com/tpope/vim-fugitive
-        Wikipedia, the text adventure: http://kevan.org/wikitext/
-        C64 yourself: http://c64.superdefault.com/
+        Make your own oscilloscope music: https://www.youtube.com/watch?v=T7J-WrS9ou0
+        There's a Playstation 3 emulator for Linux: https://rpcs3.net/ 
+        Another tiling window script for KDE: https://github.com/Jazqa/kwin-quarter-tiling
+        Add your own hardware to Amazon Echo via Philips Hue emulation with ha-bridge: https://github.com/bwssytems/ha-bridge
     ben:
-        apt is not apt-get: https://itsfoss.com/apt-vs-apt-get-difference/
-        OpenSnitch is a clone of the LittleSnitch firewall utility: https://github.com/evilsocket/opensnitch
+        PulseAudio: https://www.freedesktop.org/wiki/Software/PulseAudio/ 
     mike:
-        The Hobgoblin pub in Bath is closing: http://www.bathchronicle.co.uk/news/bath-news/central-bath-pub-hobgoblin-close-180481    
-        Parabola GNU/Linux is almost a libre Arch Linux: https://www.parabola.nu/
-        A quote from Matthew Smith who wrote Manic Miner: http://www.carlylesmith.karoo.net/spectrum/matsmith/
+        MikeOS in a web browser: https://diddledan.github.io/mikeos-web/dosbox.html
+        MikeOS music: https://www.youtube.com/watch?v=o36O5HLeJt4
 neurons: 
-    Jonathan: asking us about security on Linux
+    Daniel: showing us MikeOS in a web browser
 votm:
-    What's your favourite CLI tool or trick: https://www.linuxvoice.com/voice-of-the-masses-whats-your-favourite-cli-tooltrick/#comments
+    What was your biggest Linux mistake: https://www.linuxvoice.com/voice-of-the-masses-what-was-your-biggest-linux-mistake/#comments 

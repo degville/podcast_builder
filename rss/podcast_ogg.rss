@@ -31,6 +31,20 @@ xml:lang='en-GB'>
 <!-- Paste latest Linux Voice podcast here -->
 
 <item>
+<title>Season 5 Episode 13</title>
+<itunes:author>Andrew Gregory, Ben Everard, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: Fossilised tree resin</itunes:subtitle>
+<description>
+In this episode: We've got lots of summer-styled news, Finds and an ace Voice of the Masses.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s05e13.ogg" length="48128935" type="audio/ogg"/>
+<pubDate>Wed, 02 Aug 2017 23:00:00 -0000</pubDate>
+<itunes:duration>0:59:46</itunes:duration>
+<itunes:keywords>Krita Foundation, Slackware, Laptops, Solus</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-5-episode-13</guid>
+</item>
+
+<item>
 <title>Season 5 Episode 12</title>
 <itunes:author>Andrew Gregory, Ben Everard, Graham Morrison and Mike Saunders.</itunes:author>
 <itunes:subtitle>Title: C64 yourself</itunes:subtitle>
