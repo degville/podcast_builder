@@ -31,6 +31,20 @@ xml:lang='en-GB'>
 <!-- Paste latest Linux Voice podcast here -->
 
 <item>
+<title>Season 5 Episode 14</title>
+<itunes:author>Andrew Gregory, Ben Everard and Graham Morrison.</itunes:author>
+<itunes:subtitle>Title: Accuracy Badger</itunes:subtitle>
+<description>
+In this episode: We stay positive almost entirely through the news section, but sadly not through Finds and VotM.
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s05e14.ogg" length="55429215" type="audio/ogg"/>
+<pubDate>Wed, 16 Aug 2017 23:00:00 -0000</pubDate>
+<itunes:duration>1:08:16</itunes:duration>
+<itunes:keywords>Gnome, KDE, Red Hat, Kernel, GRSecurity, Linux, Ubuntu</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-5-episode-14</guid>
+</item>
+
+<item>
 <title>Season 5 Episode 13</title>
 <itunes:author>Andrew Gregory, Ben Everard, Graham Morrison and Mike Saunders.</itunes:author>
 <itunes:subtitle>Title: Fossilised tree resin</itunes:subtitle>
