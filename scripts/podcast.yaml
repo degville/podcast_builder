@@ -1,31 +1,33 @@
 general:
     season: 5
-    episode: 14
-    date: 2017-08-17
-    title: Accuracy Badger 
-    overview: We stay positive almost entirely through the news section, but sadly not through Finds and VotM
-    presenters: Andrew Gregory, Ben Everard and Graham Morrison
-    tags: Gnome, KDE, Red Hat, Kernel, GRSecurity, Linux, Ubuntu
+    episode: 15
+    date: 2017-09-07
+    title: 57 lines of code 
+    overview: We've got some lovely news, lots of epic finds from IRC and Masses, all with a smidgen tension.
+    presenters: Andrew Gregory, Ben Everard, Graham Morrison and Mike Saunders
+    tags: Oracle, Solaris, data protection, Android, Librem, Linux 
 news:
-    Krita is all hunky-dory again: https://krita.org/en/item/krita-foundation-update/
-    Solus 3, with added snaps, has been released: https://solus-project.com/
-    RHEL deprecates btrfs in 7.4: https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/7.4_Release_Notes/chap-Red_Hat_Enterprise_Linux-7.4_Release_Notes-Deprecated_Functionality.html
-    GRSecurity sue Bruce Perens: https://www.theregister.co.uk/2017/08/03/linux_kernel_grsecurity_sues_bruce_perens_for_defamation/
+    Oracle is sunsetting Solaris: https://meshedinsights.com/2017/09/03/oracle-finally-killed-sun/
+    The UK is implementing a new data protection law: http://www.bbc.co.uk/news/technology-40826062
+    Librem 5, a Security and Privacy Focused Phone: https://puri.sm/shop/librem-5/
 finds:
     irc:
-        ioangogo; Open MIDI sound font site that needs people to submit sounds: http://freepats.zenvoid.org/
-        aShepie; there are some fantastic hdparm options: https://twitter.com/FioraAeterna/status/894407280900194305
-        TraceyC; KeepassXC just works with browser plugins like chromipass: https://keepassxc.org
+        james_olympus; The BBC has assigned some interesting IP addresses to their public servers. The command getent hosts bbc.co.uk gets you a list of their IPv6 addresses: http://man7.org/linux/man-pages/man1/getent.1.html
+        mcphail; Helium Rain is shaping up to be a lovely Elite alike, assets have been created in Blender and source is on Github: http://helium-rain.com 
+        mcphail; the new Blender Principled BSDF shader is brilliant: https://youtu.be/4H5W6C_Mbck 
+        ioangogo; here is a cli util for extracting numbers from a image of 7 segment display: https://github.com/auerswal/ssocr
+        ioangogo; and here is another, it's a collection of projects that implement a open source stack for the zwave protocal, its offical stack is a liceneced closed one: https://github.com/OpenZWave
+        JonTheNiceGuy; for two great VPN services you can self host, take a look at wireguard and openconnect: https://www.wireguard.com/
     andrew:
-        If you haven't read 1984, you totally should: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
-        WannaCry saviour Marcus Hutchins could face 40 years in US prison: http://www.telegraph.co.uk/technology/2017/08/03/fbi-arrests-wannacry-hero-marcus-hutchins-las-vegas-reports/ 
+        How I replicated an $86 million project in 57 lines of code: https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9
     graham:
-        Java has been ported to the Commodore 64: http://boingboing.net/2017/08/03/java-ported-to-commodore-64.html
-        Install Termux on all your Android devices: https://play.google.com/store/apps/details?id=com.termux&hl=en_GB
+        Patchbook, a markup language for modular synth patches: http://spektroaudio.com/blog/2017/8/22/introducing-patchbook-a-markup-language-for-modular-synth-patches
+        Outrun, in widescreen at 60FPS. On a Raspberry Pi using CannonBall: http://reassembler.blogspot.co.uk/p/cannonball-open-source-outrun-engine.html         
+        Don't buy Anirog's Jump Jet: http://acornelectron.co.uk/mags/au/revs/anirog/Jump_Jet_000.html
     ben:
-        Delayed Gratification is rather a good magazine: http://www.slow-journalism.com        
-        Windows 10 is quite interesting: https://www.microsoft.com/en-gb/windows/get-windows-10
+        Google's Balkanisation of the web: https://www.rand.org/blog/2012/11/googles-schmidt-decries-balkanizing-of-internet.html
     mike:
 neurons: 
+    Andreas: The Magit git mode for Emacs and its Kickstarter (https://www.kickstarter.com/projects/1681258897/its-magit-the-magical-git-client)
 votm:
-    What do you think of Mozilla's Information Trust initiative: https://www.linuxvoice.com/voice-of-the-masses-what-do-you-think-of-mozillas-information-trust-initiative/#comments 
+    Why is the Linux market share growing: https://www.linuxvoice.com/voice-of-the-masses-why-is-the-linux-market-share-growing/#comments 

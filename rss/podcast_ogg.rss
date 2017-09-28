@@ -31,6 +31,20 @@ xml:lang='en-GB'>
 <!-- Paste latest Linux Voice podcast here -->
 
 <item>
+<title>Season 5 Episode 15</title>
+<itunes:author>Andrew Gregory, Ben Everard, Graham Morrison and Mike Saunders.</itunes:author>
+<itunes:subtitle>Title: 57 lines of code</itunes:subtitle>
+<description>
+In this episode: We've got some lovely news, lots of epic finds from IRC and Masses, all with a smidgen tension..
+</description>
+<enclosure url="http://www.linuxvoice.com/episodes/lv_s05e15.ogg" length="59671342" type="audio/ogg"/>
+<pubDate>Wed, 06 Sep 2017 23:00:00 -0000</pubDate>
+<itunes:duration>1:08:12</itunes:duration>
+<itunes:keywords>Oracle, Solaris, data protection, Android, Librem, Linux</itunes:keywords>
+<guid>http://www.linuxvoice.com/podcast-season-5-episode-15</guid>
+</item>
+
+<item>
 <title>Season 5 Episode 14</title>
 <itunes:author>Andrew Gregory, Ben Everard and Graham Morrison.</itunes:author>
 <itunes:subtitle>Title: Accuracy Badger</itunes:subtitle>
