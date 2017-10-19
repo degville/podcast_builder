@@ -1,33 +1,38 @@
 general:
     season: 5
-    episode: 15
-    date: 2017-09-07
-    title: 57 lines of code 
-    overview: We've got some lovely news, lots of epic finds from IRC and Masses, all with a smidgen tension.
-    presenters: Andrew Gregory, Ben Everard, Graham Morrison and Mike Saunders
-    tags: Oracle, Solaris, data protection, Android, Librem, Linux 
+    episode: 16
+    date: 2017-09-27
+    title: Ludic Loop
+    overview: Lots of retro gaming, ace news, even more Finds, a Neuron and Voice of the Masses
+    presenters: Andrew Gregory, Ben Everard and Graham Morrison
+    tags: Atari, Mozilla, Firefox, synthesizers, Python, Manjaro
 news:
-    Oracle is sunsetting Solaris: https://meshedinsights.com/2017/09/03/oracle-finally-killed-sun/
-    The UK is implementing a new data protection law: http://www.bbc.co.uk/news/technology-40826062
-    Librem 5, a Security and Privacy Focused Phone: https://puri.sm/shop/librem-5/
+    New Atari console runs Linux:  https://www.gamingonlinux.com/articles/atari-are-launching-a-new-gaming-system-the-ataribox-and-it-runs-linux.10418
+    Mozilla release Firefox Quantum in beta: https://blog.mozilla.org/blog/2017/09/26/firefox-quantum-beta-developer-edition
+    X11 turns 30: https://en.wikipedia.org/wiki/X_Window_System
+    Malware typo squatting on Pypi: http://www.nbu.gov.sk/skcsirt-sa-20170909-pypi/
+    Official Manjaro laptop launched by Station X: https://manjaro.org/hardware/
+
 finds:
     irc:
-        james_olympus; The BBC has assigned some interesting IP addresses to their public servers. The command getent hosts bbc.co.uk gets you a list of their IPv6 addresses: http://man7.org/linux/man-pages/man1/getent.1.html
-        mcphail; Helium Rain is shaping up to be a lovely Elite alike, assets have been created in Blender and source is on Github: http://helium-rain.com 
-        mcphail; the new Blender Principled BSDF shader is brilliant: https://youtu.be/4H5W6C_Mbck 
-        ioangogo; here is a cli util for extracting numbers from a image of 7 segment display: https://github.com/auerswal/ssocr
-        ioangogo; and here is another, it's a collection of projects that implement a open source stack for the zwave protocal, its offical stack is a liceneced closed one: https://github.com/OpenZWave
-        JonTheNiceGuy; for two great VPN services you can self host, take a look at wireguard and openconnect: https://www.wireguard.com/
+        james_olympus; dtrx, do the right extraction: https://brettcsmith.org/2007/dtrx/
+        james_olympus; Warajevo Spectrum emultator: http://www.worldofspectrum.org/warajevo/
+        JonTheNiceGuy; BBS software for 90s AX25 amateur radio network is packaged for Ubuntu: https://wiki.ubuntu.com/UbuntuHamsPackages
+        einom; bass guitar cover versions of game music with Beardy Bass Man: https://www.youtube.com/channel/UCCMZEwRvMuORIPp5Gi6syvQ
+        Devilment; screen has a Nethack message mode: https://www.gnu.org/software/screen/manual/html_node/Nethack.html
+        mcphail; Brewdog has released its beer recipes: https://www.brewdog.com/lowdown/diydog
     andrew:
-        How I replicated an $86 million project in 57 lines of code: https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9
+        Watch The National perform in front of the Sydney Opera House: https://www.youtube.com/watch?v=uWd0EWKpH94
     graham:
-        Patchbook, a markup language for modular synth patches: http://spektroaudio.com/blog/2017/8/22/introducing-patchbook-a-markup-language-for-modular-synth-patches
-        Outrun, in widescreen at 60FPS. On a Raspberry Pi using CannonBall: http://reassembler.blogspot.co.uk/p/cannonball-open-source-outrun-engine.html         
-        Don't buy Anirog's Jump Jet: http://acornelectron.co.uk/mags/au/revs/anirog/Jump_Jet_000.html
+        Open source modular synthesizer and Eurorack module emulation: https://vcvrack.com/
+        Use your Harmony Smart Hub remote from the command line: https://github.com/sushilks/harmonyHubCLI
+        Change the way you use the web on your smartphone: https://www.mozilla.org/en-US/firefox/focus/
     ben:
-        Google's Balkanisation of the web: https://www.rand.org/blog/2012/11/googles-schmidt-decries-balkanizing-of-internet.html
+        Print your own circuit boards with: http://kicad-pcb.org/
     mike:
+        There was a Heineken version of Nintendo's Gamecube: https://www.reddit.com/r/gamecollecting/comments/58cq0s/this_heineken_gamecube_finally_came_in_the_mail/
+        GraphicsMagick Image Processing System: http://www.graphicsmagick.org/
 neurons: 
-    Andreas: The Magit git mode for Emacs and its Kickstarter (https://www.kickstarter.com/projects/1681258897/its-magit-the-magical-git-client)
+    Digger: asking us about mp3 has usurped Ogg Vorpis
 votm:
-    Why is the Linux market share growing: https://www.linuxvoice.com/voice-of-the-masses-why-is-the-linux-market-share-growing/#comments 
+    What is your getting things done tip: https://www.linuxvoice.com/voice-of-the-masses-whats-your-getting-things-done-tip/#comments
